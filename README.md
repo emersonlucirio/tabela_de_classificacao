@@ -1,9 +1,10 @@
 ![logo-imersao-aluraflix](https://github.com/emersonlucirio/tabela_de_classificacao/assets/112041088/3f2bd2c3-2e3f-4bb9-9c8a-8bdd2a26b814)
 
-# Desafio Tabela de classificação 
+# Desafio 🚀  Tabela de classificação  🚀  
 
 ### *Links:*
-* [#Alura #Imersãodev](https://alura.com.br/)
+* [#Alura #Imersãodev](https://alura.com.br/) 💻
+* [Projeto](https://emersonlucirio.github.io/tabela_de_classificacao/) 📁  
 
 
 ## Breve descrição sobre a aula;
