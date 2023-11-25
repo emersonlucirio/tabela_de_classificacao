@@ -3,7 +3,7 @@
 # Desafio Tabela de classificação 
 
 ### *Links:*
-* [#Alura #Imersãodev](www.alura.com.br)
+* [#Alura #Imersãodev](https://alura.com.br/)
 
 
 ## Breve descrição sobre a aula;
